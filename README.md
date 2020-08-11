@@ -6,7 +6,9 @@ Add API methods to the crud_client.py file.
 
 ## DB Wrapper and CacheWrapper
 Things to replace: 
+
 {Module} - Add the module name here.
+
 {Model} - Add the model name from the module.
 
 
